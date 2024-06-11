@@ -343,7 +343,7 @@ Data antrian teller:
 5. (kosong)
 Jumlah antrian = 0
 ```
-Menampilkan informasi hewan darat yaitu nama hewan, jenis kelamin, kembangbiak, pernapasan, tempat hidup, karivora, jumlah kaki, apakah menyusui?, dan suara. pada bagian karnivora dan apakah menyusui 1 yang artinya true. menampilkan informasi hewan laut yaitu nama hewan, jenis kelamin, kembangbiak, pernapasan, tempat hidup, apakah karnivora?, bentuk sirip, dan pertahanan diri. pada bagian apakah karnivora? 1 yang artinya true.
+
 
 #### Full Code Screenshoot
 ![alt text](https://github.com/MikhaelSetiaBudi/Praktikum-Algoritma-Struktur-Data-Modul-7-Stack-and-Queue/blob/master/Modul%207%20Alstrukdat/Code%20Guided%202%20Stack%20and%20Queue.png?raw=true)
@@ -451,7 +451,7 @@ Kalimat tersebut adalah polindrom
 Masukkan kalimat: Telkom
 Kalimat tersebut bukan polindrom
 ```
-Pengguna memasukkan data buku 1 sampai 5.
+
 
 #### Full code Screenshot:
 ![alt text](https://github.com/MikhaelSetiaBudi/Praktikum-Algoritma-Struktur-Data-Modul-7-Stack-and-Queue/blob/master/Modul%207%20Alstrukdat/Code%20Unguided%201%20Stack%20and%20Queue.png?raw=true)
